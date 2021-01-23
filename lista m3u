@@ -1,0 +1,34 @@
+#EXTM3U
+
+
+
+ EXTINF:0,History Channel SD (E)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35196.m3u8
+
+
+#EXTINF:0,History 2  SD (E)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35198.m3u8
+
+#EXTINF:0,Discovery Channel SD (E) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35203.m3u8
+
+#EXTINF:0,Discovery World FHD (Dual)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35207.m3u8
+
+#EXTINF:0,National Geographic SD (Dual) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35210.m3u8
+
+#EXTINF:0,Nat Geo Wild SD (Dual) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35212.m3u8
+
+#EXTINF:0,Cinemax  SD (Dual)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35243.m3u8
+
+#EXTINF:0,Paramount Channel FHD (Dual)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35246.m3u8
+
+#EXTINF:0,Warner Channel SD (E)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35250.m3u8
+
+#EXTINF:0,Fox SD (Dual) (CL)
+http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35268.m3u8
